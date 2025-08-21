@@ -1,0 +1,14 @@
+**Database Name: attmgsystem**
+
+**Admin Login Details**
+
+Username: admin
+Password: admin
+
+Username: Afridi123
+Password: afridi123
+
+**Teacher Login Details**
+
+Username: shoaib
+Password: password
